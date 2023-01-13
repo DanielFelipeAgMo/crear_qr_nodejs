@@ -1,0 +1,23 @@
+{
+  "name": "crear_qr_nodejs",
+  "version": "1.0.0",
+  "description": "Generador de codigós QR con nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielFelipeAgMo/crear_qr_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielFelipeAgMo/crear_qr_nodejs/issues"
+  },
+  "homepage": "https://github.com/DanielFelipeAgMo/crear_qr_nodejs#readme",
+  "dependencies": {
+    "qrcode": "^1.5.1"
+  }
+}
